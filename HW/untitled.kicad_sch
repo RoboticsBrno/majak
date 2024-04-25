@@ -1,0 +1,104 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "baf025d1-23f2-46d3-88bc-63df5149db57")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "SWITCH"
+		(shape input)
+		(at 177.8 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2dc86e02-332e-419b-8e8e-7b66a7e88e12")
+	)
+	(hierarchical_label "ENC_A"
+		(shape input)
+		(at 177.8 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2f4f4a78-d1fa-496e-8460-f2b133cc2802")
+	)
+	(hierarchical_label "LEDS"
+		(shape output)
+		(at 177.8 114.3 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4d7e9b94-55c0-4358-a6fe-5bef96bdd05a")
+	)
+	(hierarchical_label "SENSOR_SVETLA"
+		(shape input)
+		(at 177.8 101.6 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "77f97e73-3623-41ae-bf65-4d7facd717ac")
+	)
+	(hierarchical_label "GND"
+		(shape output)
+		(at 177.8 25.4 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9d0ba5e2-c8ac-445a-b6b6-76b8f39a06f7")
+	)
+	(hierarchical_label "5V"
+		(shape output)
+		(at 177.8 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cb0c3d86-6e8a-42d0-b332-9bfa238e743a")
+	)
+	(hierarchical_label "3V3"
+		(shape output)
+		(at 177.8 52.07 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e1a83010-fa21-41e1-ad8f-d23947bfe466")
+	)
+	(hierarchical_label "ENC_B"
+		(shape input)
+		(at 177.8 76.2 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e857a307-38ec-49d4-9bf5-4fe3e886a225")
+	)
+)
